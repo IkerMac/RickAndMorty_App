@@ -1,0 +1,13 @@
+//
+//  RMOrigin.swift
+//  Rick&Morty
+//
+//  Created by Iker Perea Trejo on 4/2/23.
+//
+
+import Foundation
+
+struct RMOrigin: Codable {
+    let name: String
+    let url: String
+}
